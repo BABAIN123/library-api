@@ -1,0 +1,8 @@
+gg.env
+_pysahce_/
+*.pyc
+users.json
+.venv/
+.idea/
+
+.vscode/
